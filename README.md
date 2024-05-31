@@ -1,0 +1,2 @@
+# SUML_Labo5_streamlit_Titanic_Survive_app
+Aplikacja sprawdzajaca prawdopodobieństwo przezycia katastrofy Titanica w zalezności od prametru w streamlit
