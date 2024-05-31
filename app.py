@@ -3,6 +3,7 @@ import streamlit as st
 import pickle
 from datetime import datetime
 import numpy as np
+from sklearn.linear_model import LogisticRegression
 
 startTime = datetime.now()
 # import znanych nam bibliotek
